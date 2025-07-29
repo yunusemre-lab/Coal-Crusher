@@ -6,11 +6,11 @@ Main:
 ![Screenshot_3](https://github.com/user-attachments/assets/b91e96b2-c2f1-4884-868b-6fea411b642e)
 ![Screenshot_4](https://github.com/user-attachments/assets/9052886b-d947-4673-bc2b-0ae01c4811f3)
 ![Screenshot_5](https://github.com/user-attachments/assets/b2b80286-e912-4da9-82a5-b05a1662edbc)
-FB1:
+FB1 (Araba):
 ![Screenshot_6](https://github.com/user-attachments/assets/e864d29c-2af3-46c8-8446-1f75dbda8260)
 ![Screenshot_7](https://github.com/user-attachments/assets/eabb7cc8-69fb-4c76-8550-f0d23e301aad)
 ![Screenshot_8](https://github.com/user-attachments/assets/115399b3-8830-46f3-bc13-4aed6f7fced1)
-FB2:
+FB2 (Dolum):
 ![Screenshot_9](https://github.com/user-attachments/assets/e2cd4288-844b-4268-ae97-79fedae9421c)
 ![Screenshot_10](https://github.com/user-attachments/assets/6ebd5de7-e971-4948-be9c-713e3bc63e66)
 ![Screenshot_11](https://github.com/user-attachments/assets/f395cbb2-d8b0-4c1c-9301-43c024c73576)
