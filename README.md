@@ -1,4 +1,4 @@
-# Coal-Crusher
+# Coal-Crusher With PLC
 Kömür Kırıcı (Coal Crusher)
 Main:
 ![Screenshot_1](https://github.com/user-attachments/assets/012f328b-b072-4cad-84e3-7ca0d660ecd2)
