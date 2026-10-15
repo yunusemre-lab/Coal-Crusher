@@ -1,5 +1,10 @@
 # Coal-Crusher With PLC
 Kömür Kırıcı (Coal Crusher)
+PLC-Sim :
+
+<img width="800" height="626" alt="Windows10x64-VMwareWorkstation2026-10-1508-54-21-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/35608845-0eab-4288-97d4-134122062ce3" />
+
+
 Main:
 ![Screenshot_1](https://github.com/user-attachments/assets/012f328b-b072-4cad-84e3-7ca0d660ecd2)
 ![Screenshot_2](https://github.com/user-attachments/assets/d3fe8efb-dcfd-43e7-89eb-421461b014f1)
@@ -19,5 +24,4 @@ FB2 (Dolum):
 ![Screenshot_14](https://github.com/user-attachments/assets/f7bf8f17-3ba4-4c0a-95d4-df0c043444d8)
 ![Screenshot_15](https://github.com/user-attachments/assets/9900ed75-9d44-4da3-8b9a-b655068a3fd7)
 ![Screenshot_16](https://github.com/user-attachments/assets/bbe7be69-3976-4341-80c8-bfb5b5bd1a94)
-PLC-Sim :
-![Screenshot_17](https://github.com/user-attachments/assets/24c290da-0c1e-4683-99ab-93d02c228a97)
+
